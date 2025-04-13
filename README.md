@@ -30,17 +30,26 @@
 **Tools:** Jupyter, Google Colab, MySQL, PyCharm
 
 ---
+### 🧠 Technical Stack
 
-### 📊 Technical Stack
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40"/>
+  <img src="https://numpy.org/images/logo.svg" width="40"/>
+</p>
 
 | Skill         | Proficiency |
 |---------------|-------------|
-| Python        | ![Python](https://progress-bar.dev/90/?title=Python&width=150&color=00cc66) |
-| SQL           | ![SQL](https://progress-bar.dev/85/?title=SQL&width=150&color=00cc66) |
-| Scikit-learn  | ![Scikit-learn](https://progress-bar.dev/80/?title=ScikitLearn&width=150&color=00cc66) |
-| TensorFlow    | ![TensorFlow](https://progress-bar.dev/75/?title=TensorFlow&width=150&color=00cc66) |
-| Pandas        | ![Pandas](https://progress-bar.dev/85/?title=Pandas&width=150&color=00cc66) |
-| NumPy         | ![NumPy](https://progress-bar.dev/80/?title=NumPy&width=150&color=00cc66) |
+| Python        | 🟩🟩🟩⬜⬜ 70% |
+| SQL           | 🟩🟩⬜⬜⬜ 55% |
+| Scikit-learn  | 🟩🟩🟩⬜⬜ 70% |
+| TensorFlow    | 🟩🟩⬜⬜⬜ 50% |
+| Pandas        | 🟩🟩🟩🟩⬜ 75% |
+| NumPy         | 🟩🟩🟩⬜⬜ 65% |
+
 
 ---
 
