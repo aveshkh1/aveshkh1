@@ -16,7 +16,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Final Year B.E. Electrical & Electronics Student (GPA: 8.0/10)
+- 🎓 B.E. Electrical & Electronics(GPA: 8.13/10)
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **AI Applications**
 - 💡 Building smart systems with real-world impact
 - 🚀 Actively seeking opportunities to apply data-driven decision-making in challenging environments
