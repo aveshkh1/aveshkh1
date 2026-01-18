@@ -83,7 +83,7 @@
 ---
 
 ### 💬 Let's Connect!
-- 📧 **Email**: aveshkharni35@gmail.com  
+- 📧 **Email**: aveshkharni913@gmail.com  
 - 🔗 **GitHub**: [github.com/aveshkh1](https://github.com/aveshkh1)  
 - 💼 **LinkedIn**: [linkedin.com/in/aveshkharani7483](https://linkedin.com/in/aveshkharani7483)  
 
